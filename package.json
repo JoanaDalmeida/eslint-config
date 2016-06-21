@@ -3,8 +3,7 @@
   "version": "0.1.0",
   "description": "Eslint shared configuration for all  projects",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoanaDalmeida/eslint-config.git"
@@ -22,6 +21,7 @@
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^6.0.5",
-    "eslint": "^2.13.1"
+    "eslint": "^2.13.1",
+    "eslint-plugin-angular": "^1.1.1"
   }
 }
