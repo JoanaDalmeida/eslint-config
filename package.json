@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-joanadalmeida",
   "version": "0.1.0",
   "description": "Eslint shared configuration for all  projects",
   "main": "index.js",
