@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config",
+  "version": "0.1.0",
+  "description": "Eslint shared configuration for all  projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoanaDalmeida/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Joana D'ALMEIDA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoanaDalmeida/eslint-config/issues"
+  },
+  "homepage": "https://github.com/JoanaDalmeida/eslint-config/blob/master/README.md",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^6.0.5",
+    "eslint": "^2.13.1"
+  }
+}
