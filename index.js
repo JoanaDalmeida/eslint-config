@@ -7,7 +7,7 @@ module.exports = {
       "angular"
     ],
     "ecmaFeatures": {
-        "jsx": true
+        "jsx": true,
         "blockBindings": true,
         "forOf": true,
         "classes": true,
@@ -25,7 +25,7 @@ module.exports = {
     },
     "globals": {
         "$": true,
-        "JQuery": true
+        "JQuery": true,
         "require": true,
         "_": true,
         "Promise": true,
