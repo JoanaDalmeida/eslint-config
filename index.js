@@ -37,7 +37,7 @@ module.exports = {
     },
     "env": {
         "browser": true,
-        "node": true
+        "es6": true
     },
     "rules": {
 
@@ -101,6 +101,7 @@ module.exports = {
         "comma-dangle": 2,
         "no-var": 2,
         "indent": [2, 4, {"SwitchCase": 1}],
+        "semi": [2, "always"],
         "brace-style": [2, "1tbs", { "allowSingleLine": true }],
         "comma-style": [2, "last"],
         "func-names": 2,
@@ -137,7 +138,6 @@ module.exports = {
         "no-unreachable": 2,
         "use-isnan": 2,
         "valid-typeof": 2,
-        //"filenames/filenames": [2, "^[a-z-]+$"],
         "space-before-blocks": 2,
         "arrow-spacing": 2
     }
