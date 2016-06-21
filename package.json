@@ -4,7 +4,6 @@
   "description": "Eslint shared configuration for all  projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
