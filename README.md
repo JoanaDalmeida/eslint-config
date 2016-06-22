@@ -1,6 +1,8 @@
 # eslint-config
 Eslint configuration for angular projetcs.
 
+[![NPM](https://nodei.co/npm/eslint-config-joanadalmeida.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/eslint-config-joanadalmeida/)
+
 #Usage
 
 * First install the package by running the command below :
